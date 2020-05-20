@@ -2,7 +2,6 @@
   modulo the prime p
   with the bit length DATAWIDTH */
 
-`define faultWidth  8
  /*Parameters for Elliptic Curve with 521 bits*/
 
 `define DATAWIDTH  521
@@ -96,7 +95,6 @@
 `define Mx0        128'd25022131429364248112951584293624460930
 `define My0        128'd121817100096969938286892229223484993851
 `define secretKey  128'd42624822515914917023322916317892122324 
-//`define secretKey  128'd2075174161569616921896229281511211628  
 `define k          128'd166841011151241872031651641266734614613           
 */
 
